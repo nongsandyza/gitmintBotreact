@@ -1,0 +1,2 @@
+# gitmintBotreact
+รวมการทดสอบรหัสของGeminiเเละเพื่อน
