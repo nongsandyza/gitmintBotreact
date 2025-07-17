@@ -1,5 +1,6 @@
 # gitmintBotreact
 รวมการทดสอบรหัสของGeminiเเละเพื่อน
+```
 my-gitmintbot-app/
 ├── node_modules/
 ├── public/
@@ -15,7 +16,8 @@ my-gitmintbot-app/
 ├── .gitignore
 ├── package.json            <-- ไฟล์ข้อมูลโปรเจกต์และ dependencies
 ├── package-lock.json
-└── README.md
+└── README.m
+```
 
 ## ดังนั้น
 ชื่อไฟล์และนามสกุลของโค้ดที่คุณเลือก:
